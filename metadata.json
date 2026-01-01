@@ -1,0 +1,7 @@
+{
+  "name": "HoloScribe AI",
+  "description": "A high-fidelity holographic meeting intelligence platform featuring real-time transcription, agentic AI summarization, spatial data visualization, and simulated token-rail payment settlements.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
